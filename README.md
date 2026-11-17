@@ -1,4 +1,4 @@
-# Plant Leaf Disease Classification with CNN
+# Plant Leaf Disease Classification with CNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ilhanumut01/DeeplearningProject/blob/main/plant_disease_cnn_colab.ipynb)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-FF6F00?logo=tensorflow&logoColor=white)
